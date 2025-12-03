@@ -10,7 +10,7 @@ var directConnection = "DIRECT";   // Прямое подключение
 var unblockServices = {
     youtube: {
         domains: [
-            "youtube.com", "ytimg.com", "youtu.be"
+            "youtube.com", "ytimg.com", "youtu.be", "yt3.ggpht.com", "yt4.ggpht.com", "yt3.googleusercontent.com", "yt4.googleusercontent.com"
         ],
         patterns: [
             "*youtube.com/get_video_info*",
@@ -18,7 +18,9 @@ var unblockServices = {
             "*youtube.com/watch*",
             "*redirector.googlevideo.com*",
             "*googlevideo.com*",
-            "*youtube*"
+            "*youtube*",
+            "*yt3.ggpht*",
+            "*yt4.ggpht*"
         ],
         allowedIPs: [] // IP-адреса, которые нужно использовать через прокси
     },
