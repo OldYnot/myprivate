@@ -62,7 +62,6 @@ var unblockServices = {
             "nexusmods.com",
     ],
     patterns: [
-            "*rutracker*",
             "*rutor*",
             "*instagram*",
         ],
