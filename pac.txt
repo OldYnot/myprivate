@@ -60,6 +60,10 @@ var unblockServices = {
     mydomen: {
     domains: [
             "nexusmods.com",
+            "duckduckgo.com",
+            "autorefresh.io",
+            "autorefresh.io/options/",
+            "avatars.mds.yandex.net",
     ],
     patterns: [
             "*rutracker*",
