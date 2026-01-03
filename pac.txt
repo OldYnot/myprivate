@@ -64,9 +64,9 @@ var unblockServices = {
             "autorefresh.io",
             "autorefresh.io/options/",
             "avatars.mds.yandex.net",
+            "homey.place",
     ],
     patterns: [
-            "*homey*",
             "*rutracker*",
             "*rutor*",
             "*instagram*",
