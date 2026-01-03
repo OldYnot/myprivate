@@ -65,6 +65,9 @@ var unblockServices = {
             "autorefresh.io/options/",
             "avatars.mds.yandex.net",
             "homey.place",
+            "cdn.flixel.com",
+            "chatgpt.com",
+            "images.weserv.nl",
     ],
     patterns: [
             "*rutracker*",
