@@ -66,6 +66,7 @@ var unblockServices = {
             "avatars.mds.yandex.net",
     ],
     patterns: [
+            "*homey*",
             "*rutracker*",
             "*rutor*",
             "*instagram*",
