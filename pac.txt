@@ -53,6 +53,7 @@ var unblockServices = {
         domains: [
             "chatgpt.com", // Основной домен GPT
             "api.openai.com" // API домен OpenAI, если необходимо
+            "auth.openai.com"
         ],
         patterns: [],
         allowedIPs: [] // IP-адреса, которые нужно использовать через прокси
