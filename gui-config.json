@@ -36,6 +36,7 @@
       "remarks": "Russia",
       "timeout": 5,
       "warnLegacyUrl": false
+      }
   ],
   "onlineConfigSource": [],
   "strategy": "com.shadowsocks.strategy.ha",
@@ -104,3 +105,4 @@
   }
 
 }
+
