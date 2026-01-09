@@ -28,15 +28,6 @@
       "timeout": 5,
       "warnLegacyUrl": false
    },
-    {
-      "server": "193.228.128.82",
-      "server_port": 443,
-      "password": "a04bcbf7-2cf6-4c23-bdeb-9ae0a4caa512",
-      "method": "aes-256-gcm",
-      "remarks": "Russia",
-      "timeout": 5,
-      "warnLegacyUrl": false
-      }
   ],
   "onlineConfigSource": [],
   "strategy": "com.shadowsocks.strategy.ha",
@@ -105,4 +96,5 @@
   }
 
 }
+
 
