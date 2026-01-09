@@ -1,4 +1,17 @@
 [
+ {
+    "server": "62.133.60.43",
+    "server_port": 36456,
+    "password": "3KSyXvDqExrfZt7AEySgYB",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "Frankfurt am Main, HE, Germany",
+    "route": "custom-rules",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    }, 
   {
     "server": "45.140.168.42",
     "server_port": 1281,
