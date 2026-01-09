@@ -11,7 +11,9 @@
     "metered": false,
     "proxy_apps": {
       "enabled": false
-    }, 
+    },
+    "udpdns": false
+  },
   {
     "server": "45.140.168.42",
     "server_port": 1281,
