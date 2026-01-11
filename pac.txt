@@ -64,7 +64,6 @@ var unblockServices = {
             "duckduckgo.com",
             "autorefresh.io",
             "autorefresh.io/options/",
-            "avatars.mds.yandex.net",
             "homey.place",
             "cdn.flixel.com",
             "chatgpt.com",
@@ -74,7 +73,6 @@ var unblockServices = {
             "*rutracker*",
             "*rutor*",
             "*instagram*",
-            "*avatars.mds.yandex*",
         ],
     allowedIPs: [
 ] // IP-адреса, которые нужно использовать через прокси
