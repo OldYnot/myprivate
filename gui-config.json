@@ -2,9 +2,9 @@
   "version": "4.4.1.0",
   "configs": [
     {
-      "server": "94.198.220.183",
-      "server_port": 64674,
-      "password": "s8LbJCgUiGXeCKVc63tHJP",
+      "server": "62.133.60.43",
+      "server_port": 36456,
+      "password": "GKjSDfkPajKJKpfCtwQAu5",
       "method": "chacha20-ietf-poly1305",
       "remarks": "Russia",
       "timeout": 5,
