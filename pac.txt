@@ -68,14 +68,11 @@ var unblockServices = {
             "cdn.flixel.com",
             "chatgpt.com",
             "images.weserv.nl",
-			"shadowmere.xyz",
-			"shadowmere.xyz/api/sub/",
     ],
     patterns: [
             "*rutracker*",
             "*rutor*",
             "*instagram*",
-			"*shadowmere*",
         ],
     allowedIPs: [
 ] // IP-адреса, которые нужно использовать через прокси
