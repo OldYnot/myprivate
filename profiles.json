@@ -4,7 +4,7 @@
       "server_port": 36456,
       "password": "GKjSDfkPajKJKpfCtwQAu5",
       "method": "chacha20-ietf-poly1305",
-    "remarks": "Moscow,+MOW,+Russia",
+    "remarks": "VPNServer",
     "route": "custom-rules",
     "remote_dns": "dns.google",
     "ipv6": false,

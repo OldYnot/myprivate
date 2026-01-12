@@ -6,7 +6,7 @@
       "server_port": 36456,
       "password": "GKjSDfkPajKJKpfCtwQAu5",
       "method": "chacha20-ietf-poly1305",
-      "remarks": "Russia",
+      "remarks": "VPNServer",
       "timeout": 5,
       "warnLegacyUrl": false
     },
