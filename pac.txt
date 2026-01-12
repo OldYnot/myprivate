@@ -69,6 +69,7 @@ var unblockServices = {
             "chatgpt.com",
             "images.weserv.nl",
 			"shadowmere.xyz",
+			"shadowmere.xyz/api/sub/",
     ],
     patterns: [
             "*rutracker*",
