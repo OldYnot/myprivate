@@ -2,6 +2,15 @@
   "version": "4.4.1.0",
   "configs": [
     {
+      "server": "",
+      "server_port": ,
+      "password": "",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
       "server": "62.133.60.43",
       "server_port": 36456,
       "password": "GKjSDfkPajKJKpfCtwQAu5",
