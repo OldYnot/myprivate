@@ -24,4 +24,3 @@ youtube.com/api/timedtext
 youtube.com/get_video_info
 youtube.com/watch
 ytimg.com
-tiktok.com
