@@ -68,7 +68,6 @@ var unblockServices = {
             "cdn.flixel.com",
             "chatgpt.com",
             "images.weserv.nl",
-			"vpngate.net",
     ],
     patterns: [
             "*rutracker*",
