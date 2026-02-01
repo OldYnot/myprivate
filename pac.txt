@@ -73,6 +73,7 @@ var unblockServices = {
             "*rutracker*",
             "*rutor*",
             "*instagram*",
+			"*kodi*",
         ],
     allowedIPs: [
 ] // IP-адреса, которые нужно использовать через прокси
