@@ -68,12 +68,12 @@ var unblockServices = {
             "cdn.flixel.com",
             "chatgpt.com",
             "images.weserv.nl",
+			"kodi.tv",
     ],
     patterns: [
             "*rutracker*",
             "*rutor*",
             "*instagram*",
-			"*kodi*",
         ],
     allowedIPs: [
 ] // IP-адреса, которые нужно использовать через прокси
