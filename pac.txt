@@ -68,12 +68,12 @@ var unblockServices = {
             "cdn.flixel.com",
             "chatgpt.com",
             "images.weserv.nl",
-			"news.google.com",
     ],
     patterns: [
             "*rutracker*",
             "*rutor*",
             "*instagram*",
+            "*news.google*",
         ],
     allowedIPs: [
 ] // IP-адреса, которые нужно использовать через прокси
