@@ -60,21 +60,19 @@ var unblockServices = {
     },
     mydomen: {
     domains: [
-            "nexusmods.com",
+            "news.google.com",            
+			"nexusmods.com",
             "duckduckgo.com",
             "autorefresh.io",
             "autorefresh.io/options/",
             "homey.place",
             "cdn.flixel.com",
-            "chatgpt.com",
             "images.weserv.nl",
-            "google.com",
     ],
     patterns: [
             "*rutracker*",
             "*rutor*",
             "*instagram*",
-            "*news.google*",
         ],
     allowedIPs: [
 ] // IP-адреса, которые нужно использовать через прокси
