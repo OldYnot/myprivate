@@ -60,8 +60,7 @@ var unblockServices = {
     },
     mydomen: {
     domains: [
-            "news.google.com/",            
-			"nexusmods.com",
+           	"nexusmods.com",
             "duckduckgo.com",
             "autorefresh.io",
             "autorefresh.io/options/",
