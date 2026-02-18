@@ -25,3 +25,6 @@ youtube.com/get_video_info
 youtube.com/watch
 ytimg.com
 news.google.com
+chatgpt.com
+api.openai.com
+auth.openai.com
