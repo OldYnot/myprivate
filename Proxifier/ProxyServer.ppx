@@ -55,6 +55,11 @@
 			<Applications>"nvidia app.exe"</Applications>
 			<Name>Nvidia</Name>
 		</Rule>
+		<Rule enabled="false">
+			<Action type="Proxy">100</Action>
+			<Applications>*123*</Applications>
+			<Name>123587</Name>
+		</Rule>
 		<Rule enabled="true">
 			<Action type="Direct" />
 			<Name>Default</Name>
