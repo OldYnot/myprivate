@@ -55,7 +55,7 @@
 			<Applications>"nvidia app.exe"</Applications>
 			<Name>Nvidia</Name>
 		</Rule>
-		<Rule enabled="true">
+		<Rule enabled="false">
 			<Action type="Proxy">100</Action>
 			<Applications>telegram.exe</Applications>
 			<Name>Telegram</Name>
