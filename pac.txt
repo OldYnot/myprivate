@@ -67,7 +67,6 @@ var unblockServices = {
             "homey.place",
             "cdn.flixel.com",
             "images.weserv.nl",
-			"telegram.org",
     ],
     patterns: [
             "*rutracker*",
