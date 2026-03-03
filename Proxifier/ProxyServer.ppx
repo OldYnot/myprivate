@@ -40,7 +40,7 @@
 		</Rule>
 		<Rule enabled="true">
 			<Action type="Proxy">100</Action>
-			<Targets>*PulseSync*; news.google.com; freetp.ru; telegram.org</Targets>
+			<Targets>*PulseSync*; news.google.com; freetp.ru</Targets>
 			<Applications>chrome.exe</Applications>
 			<Name>Chrome</Name>
 		</Rule>
