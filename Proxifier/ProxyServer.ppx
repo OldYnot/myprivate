@@ -56,6 +56,11 @@
 			<Name>Nvidia</Name>
 		</Rule>
 		<Rule enabled="true">
+			<Action type="Proxy">100</Action>
+			<Applications>telegram.exe</Applications>
+			<Name>Telegram</Name>
+		</Rule>
+		<Rule enabled="true">
 			<Action type="Direct" />
 			<Name>Default</Name>
 		</Rule>
