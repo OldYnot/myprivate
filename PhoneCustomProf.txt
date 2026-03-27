@@ -29,4 +29,4 @@ chatgpt.com
 api.openai.com
 auth.openai.com
 telegram.org
-telegram
+*telegram*
