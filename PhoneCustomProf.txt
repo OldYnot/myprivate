@@ -341,3 +341,15 @@ zeus.telegram.org
 2001:67c:4e8::/48
 2001:b28:f23c::/46
 2a0a:f280::/29
+discord.gg
+discord.com
+discordapp.com
+discord.media
+discordapp.net
+discordcdn.com
+discord.dev
+discord.new
+discord.gift
+discordstatus.com
+dis.gd
+discord.co
